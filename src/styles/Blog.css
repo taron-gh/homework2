@@ -1,0 +1,30 @@
+.blogs-container{
+    width: 840px;
+    margin: auto;
+    margin-top: 30px;
+}
+.blog{
+    width: 264px;
+}
+.blogs{
+    display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+    margin-top: 15px;
+}
+.blog-title{
+    margin-top: 16px;
+    font-family: 'Montserrat-Medium', sans-serif;
+    font-size: 16px;
+}
+.blog-txt{
+    margin-top: 15px;
+    font-family: 'Montserrat-Light', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #999999;
+}
+.inactive-link{
+    color: #999;
+    text-decoration-color: #999;
+}

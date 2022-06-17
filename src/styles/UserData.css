@@ -1,0 +1,37 @@
+.mb-16{
+    margin-bottom: 16px;
+}
+.user-info{
+    padding: 67px 0 46px;
+    /* background-color: #ededed; */
+}
+
+.personal-container{
+    width: 840px;
+    margin: auto;
+    background-color: white;
+}
+.avatar{
+    border-radius: 50;
+    height: 64px;
+    width: 64px;
+    margin-bottom: 15px;
+}
+.main-titles{
+    font-family: 'Montserrat-Medium', sans-serif;
+    font-size: 24px;
+    margin-top: 16px;
+}
+
+.link{
+    font-family: 'Montserrat-Medium', sans-serif;
+    font-size: 16px;
+}
+
+.main-txt{
+    margin-top: 8px;
+    font-family: 'Montserrat-Light', sans-serif;
+    line-height: 1.6;
+    color: #999999;
+    font-size: 16px;
+}
